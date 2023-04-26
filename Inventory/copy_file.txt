@@ -1,0 +1,5 @@
+4
+pepsi_can_330ml pepsico 25 1.000000 soft_drink
+cocacola_can_330ml coca-cola_company 15 1.250000 soft_drink
+kitkat nestle 5 0.750000 sweets
+snickers mars_incorporated 10 0.800000 sweets
